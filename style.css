@@ -217,3 +217,9 @@ a:hover {
 .iskalnik:hover {
     border: 1px solid #8d8d8d;
 }
+.gumb_app:hover {
+    border: 1px solid grey;
+}
+.tipkovnica:hover {
+    border:grey;
+}
